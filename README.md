@@ -270,6 +270,7 @@ bash printing_management_system.sh
 
 21) See printing History ( Admin approved printing requests)
 
+<img width="1280" height="417" alt="Screenshot 2026-04-29 at 10 06 02 PM" src="https://github.com/user-attachments/assets/0627d1cb-0572-4183-bd34-a1f7e3197adb" />
 
 <img width="1280" height="467" alt="Screenshot 2026-04-29 at 10 14 26 PM" src="https://github.com/user-attachments/assets/2f1003e1-8510-4b30-bb79-b797c7e05356" />
 <br>
