@@ -1,0 +1,44 @@
+OrderID: 1774895629
+Username: Fariha Rayhan Mim
+File: Physical DFD.pdf
+Copies: 2
+Pages per Copy: 50
+Color: Color
+Print Type: One-Sided
+Payment Method: TX009352
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1775018426
+Username: Anisa Urbi
+File: Statistics.pdf
+Copies: 10
+Pages per Copy: 40
+Color: Black & White
+Print Type: Double-Sided
+Payment Method: TH00832
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1777430749
+Username: Fariha Rayhan Mim
+File: pcm
+Copies: 2
+Pages per Copy: 10
+Color: Color
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1777438983
+Username: tripty
+File: uygrf
+Copies: 3
+Pages per Copy: 4
+Color: Black & White
+Print Type: Double-Sided
+Payment Method: wfhesj
+Status: Approved
+-----------------------------
+-----------------------------

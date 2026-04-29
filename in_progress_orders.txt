@@ -1,0 +1,10 @@
+OrderID: 1777430715
+Username: Fariha Rayhan Mim
+File: PCM Implementation.pdf
+Copies: 30
+Pages per Copy: 40
+Color: Black & White
+Print Type: Double-Sided
+Payment Method: 
+Status: Pending
+-----------------------------
