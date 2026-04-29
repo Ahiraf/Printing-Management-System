@@ -1,4 +1,4 @@
-<img width="1280" height="252" alt="Screenshot 2026-04-29 at 10 11 59 PM" src="https://github.com/user-attachments/assets/96651f90-dbb1-447f-9b05-9fbdb82078d5" /><img width="1280" height="525" alt="Screenshot 2026-04-29 at 10 10 46 PM" src="https://github.com/user-attachments/assets/4afa2e4e-58e9-45c7-a673-1775fe84e8e1" /># Printing Management System
+# Printing Management System
 
 This is a Bash-based Operating System lab project for managing a small printing service from the terminal.
 
