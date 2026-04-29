@@ -1,4 +1,4 @@
-<img width="1280" height="602" alt="Screenshot 2026-04-29 at 10 10 12 PM" src="https://github.com/user-attachments/assets/cd12a52e-5523-40f1-bffe-251be2abf104" /><img width="1280" height="344" alt="Screenshot 2026-04-29 at 10 08 11 PM" src="https://github.com/user-attachments/assets/8d7084eb-668b-4e19-8eb1-6fb082f3a334" /><img width="1280" height="323" alt="Screenshot 2026-04-29 at 10 06 27 PM" src="https://github.com/user-attachments/assets/44ce2ea2-0867-46e3-9fd8-be1df42fa040" /><img width="1280" height="417" alt="Screenshot 2026-04-29 at 10 06 07 PM" src="https://github.com/user-attachments/assets/cf0f2833-e1b6-4b20-aeae-0336f86f434f" /><img width="1280" height="417" alt="Screenshot 2026-04-29 at 10 06 07 PM" src="https://github.com/user-attachments/assets/b5088c0a-fc1b-4afb-abd4-7a0e2c3cbb70" /><img width="1280" height="472" alt="Screenshot 2026-04-29 at 10 01 25 PM" src="https://github.com/user-attachments/assets/fbde2d6a-ba5a-4c30-994d-3deaa2c6fb8e" /><img width="1280" height="537" alt="Screenshot 2026-04-29 at 9 55 56 PM" src="https://github.com/user-attachments/assets/f9e7ccc8-7533-4ff2-9efe-3968b8aae229" /># Printing Management System
+<img width="1280" height="252" alt="Screenshot 2026-04-29 at 10 11 59 PM" src="https://github.com/user-attachments/assets/96651f90-dbb1-447f-9b05-9fbdb82078d5" /><img width="1280" height="525" alt="Screenshot 2026-04-29 at 10 10 46 PM" src="https://github.com/user-attachments/assets/4afa2e4e-58e9-45c7-a673-1775fe84e8e1" /># Printing Management System
 
 This is a Bash-based Operating System lab project for managing a small printing service from the terminal.
 
@@ -110,9 +110,11 @@ bash printing_management_system.sh
 
 7) Buy a prepaid package :
 
-
+<img width="1280" height="387" alt="Screenshot 2026-04-29 at 10 43 11 PM" src="https://github.com/user-attachments/assets/c0a82614-195f-4c45-bf2c-648e7f0b51c7" />
 
 <img width="1280" height="477" alt="Screenshot 2026-04-29 at 10 02 09 PM" src="https://github.com/user-attachments/assets/494236b0-eb33-4421-af78-a8eeb07127a8" />
+
+
 
 <br>
 <br>
@@ -131,6 +133,9 @@ bash printing_management_system.sh
 
 
 9) See History :
+
+
+
 
 <img width="1280" height="417" alt="Screenshot 2026-04-29 at 10 06 02 PM" src="https://github.com/user-attachments/assets/0627d1cb-0572-4183-bd34-a1f7e3197adb" />
 
@@ -197,13 +202,118 @@ bash printing_management_system.sh
 
 <img width="1280" height="357" alt="Screenshot 2026-04-29 at 10 09 31 PM" src="https://github.com/user-attachments/assets/139695d7-779c-442c-afe5-91a62fb07417" />
 
-
+**Approve**
 <img width="1280" height="602" alt="Screenshot 2026-04-29 at 10 10 12 PM" src="https://github.com/user-attachments/assets/2db942fa-4674-4b87-9810-a6b4f6e2975e" />
+<br>
+<br>
+
+**Reject:**
 
 
+<img width="1280" height="474" alt="Screenshot 2026-04-29 at 10 10 31 PM" src="https://github.com/user-attachments/assets/5c151f03-dbb2-4d9a-a81e-6b9897129d69" />
+
 <br>
 <br>
 <br>
+
+16) View Completed Requests:
+
+
+<img width="1280" height="347" alt="Screenshot 2026-04-29 at 10 10 40 PM" src="https://github.com/user-attachments/assets/939309ff-16b7-4696-af37-67e3085dd038" />
+<img width="1280" height="525" alt="Screenshot 2026-04-29 at 10 10 46 PM" src="https://github.com/user-attachments/assets/06f8fa65-672c-4ad6-994d-676b43556ab7" />
+
+
+
+<br>
+<br>
+<br>
+
+17) Approve/Reject prepaid packages: 
+<img width="1280" height="383" alt="Screenshot 2026-04-29 at 10 46 15 PM" src="https://github.com/user-attachments/assets/8be51a40-7f07-4af2-899b-306c1439d48d" />
+
+<img width="1280" height="489" alt="Screenshot 2026-04-29 at 10 11 04 PM" src="https://github.com/user-attachments/assets/b7865963-e888-4927-a30f-668aaa4cc0c0" />
+
+<br>
+<br>
+<br>
+
+18) View Prepaid packages of all users :
+
+<img width="1280" height="351" alt="Screenshot 2026-04-29 at 10 11 13 PM" src="https://github.com/user-attachments/assets/82cd6fc8-2fbe-40be-9bd2-b04fe32dfc79" />
+
+<img width="1280" height="327" alt="Screenshot 2026-04-29 at 10 11 19 PM" src="https://github.com/user-attachments/assets/45f35f95-a417-45d8-bdb5-5a64e9aafd45" />
+
+<br>
+<br>
+<br>
+
+19) Admin log out :
+
+
+<img width="1280" height="339" alt="Screenshot 2026-04-29 at 10 11 26 PM" src="https://github.com/user-attachments/assets/295b7c6e-8302-488a-9b8a-7589c2831530" />
+
+<br>
+<br>
+<br>
+
+20) Loding as User to see Approved printing requests & prepaid packages :
+
+
+<img width="1280" height="377" alt="Screenshot 2026-04-29 at 10 11 38 PM" src="https://github.com/user-attachments/assets/d47d4070-8751-4044-a767-7567bcf609c4" />
+
+
+<img width="1280" height="252" alt="Screenshot 2026-04-29 at 10 11 59 PM" src="https://github.com/user-attachments/assets/ed71f0a9-2946-46c0-b682-444506f22e76" />
+
+<br>
+<br>
+<br>
+
+21) See printing History ( Admin approved printing requests)
+
+
+<img width="1280" height="467" alt="Screenshot 2026-04-29 at 10 14 26 PM" src="https://github.com/user-attachments/assets/2f1003e1-8510-4b30-bb79-b797c7e05356" />
+<br>
+<br>
+<br>
+
+22) next see approved prepaid packages :
+
+<img width="1280" height="360" alt="Screenshot 2026-04-29 at 10 12 16 PM" src="https://github.com/user-attachments/assets/9bf0f7ad-696d-4939-89d6-e38f48c8f7de" />
+
+<img width="1280" height="360" alt="Screenshot 2026-04-29 at 10 12 21 PM" src="https://github.com/user-attachments/assets/3d2e3c36-5bd8-4cda-a9ea-b9ee7ddad660" />
+
+<br>
+<br>
+<br>
+23) Now submitting a print request with prepaid package:
+
+
+<img width="1280" height="434" alt="Screenshot 2026-04-29 at 10 13 37 PM" src="https://github.com/user-attachments/assets/2a1dde19-b21e-49cd-99c3-6183a7c9196e" />
+
+<br>
+<br>
+<br>
+
+24) Approve the new printing request of prepaid package as Admin :
+
+<img width="1280" height="605" alt="Screenshot 2026-04-29 at 10 15 46 PM" src="https://github.com/user-attachments/assets/9cbc7179-52d9-4598-889a-b8579c8989cc" />
+
+
+25) Now See history as User :
+
+
+<img width="1280" height="718" alt="Screenshot 2026-04-29 at 10 17 10 PM" src="https://github.com/user-attachments/assets/4fd624e5-2539-4168-9c7e-03a18919134e" />
+
+<br>
+<br>
+<br>
+
+26) Check print Status of Rejected printing requests:
+ <img width="1280" height="433" alt="Screenshot 2026-04-29 at 10 56 43 PM" src="https://github.com/user-attachments/assets/1c6a469e-e574-42ec-b985-240173c9de40" />
+
+<img width="1280" height="312" alt="Screenshot 2026-04-29 at 10 56 49 PM" src="https://github.com/user-attachments/assets/f621eb85-8461-412f-be6c-ea014df2ed9f" />
+
+
 
 
 
